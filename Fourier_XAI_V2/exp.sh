@@ -1,0 +1,9 @@
+#python Fourier_experiment.py --dataset ../Kaggle_v3/ --lr 0.00052 --beta_1 0.64 --beta_2 0.93 --eps 7.8e-07 --r 1.0 --exp_id 2
+#python Fourier_experiment.py --dataset ../Kaggle_v3/ --lr 0.00052 --beta_1 0.64 --beta_2 0.93 --eps 7.8e-07 --r 1.0 --exp_id 3
+python Fourier_experiment.py --dataset ../Kaggle_v3/ --lr 0.00052 --beta_1 0.64 --beta_2 0.93 --eps 7.8e-07 --r 1.0 --exp_id 4
+python Fourier_experiment.py --dataset ../Kaggle_v3/ --lr 0.00052 --beta_1 0.64 --beta_2 0.93 --eps 7.8e-07 --r 1.0 --exp_id 5
+python Fourier_experiment.py --dataset ../Kaggle_v3/ --lr 0.00052 --beta_1 0.64 --beta_2 0.93 --eps 7.8e-07 --r 1.0 --exp_id 6
+python Fourier_experiment.py --dataset ../Kaggle_v3/ --lr 0.00052 --beta_1 0.64 --beta_2 0.93 --eps 7.8e-07 --r 1.0 --exp_id 7
+python Fourier_experiment.py --dataset ../Kaggle_v3/ --lr 0.00052 --beta_1 0.64 --beta_2 0.93 --eps 7.8e-07 --r 1.0 --exp_id 8
+python Fourier_experiment.py --dataset ../Kaggle_v3/ --lr 0.00052 --beta_1 0.64 --beta_2 0.93 --eps 7.8e-07 --r 1.0 --exp_id 9
+python Fourier_experiment.py --dataset ../Kaggle_v3/ --lr 0.00052 --beta_1 0.64 --beta_2 0.93 --eps 7.8e-07 --r 1.0 --exp_id 10
