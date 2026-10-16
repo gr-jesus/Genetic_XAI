@@ -113,8 +113,8 @@ If you use this code or our methodology in your research, please consider citing
 ```
 @article{BeyondTheBlackBox2026,
   title={Beyond the Black Box: an Aggregation Multi-Objective Genetic Approach for Interpretable COVID-19 Diagnosis},
-  author={[Your Name/Authors]},
-  journal={[Journal/Conference Name]},
+  author={Jesús García-Ramírez, Rodrigo Ramos Díaz, Boris Escalante Ramírez, Jimena Olveres},
+  journal={preprint},
   year={2026}
 }
 
